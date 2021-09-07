@@ -1,3 +1,4 @@
+--1 Load the query
 SELECT *
 FROM `lunar-caster-321515.Covid_19.Covid_Deaths`
 WHERE continent is not null 
